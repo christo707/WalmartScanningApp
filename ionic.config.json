@@ -1,0 +1,7 @@
+{
+  "name": "WalmartScanningApp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
